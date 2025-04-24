@@ -1,11 +1,9 @@
 # Ecommerce-SQL-Analysis-
 This repository contains SQL scripts for analyzing an e-commerce database, focusing on Customer and Department data. It includes:
 
-## Database schema setup
-
-## Sample data insertion
-
-## Comprehensive SQL queries for analysis
+Database schema setup
+Sample data insertion
+Comprehensive SQL queries for analysis
 
 ## Customer Analysis
 Prime vs NonPrime customer comparisons
